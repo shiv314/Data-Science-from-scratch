@@ -1,0 +1,1 @@
+Hey, so this will be a good implementation of data science models from scratch. We will have fun! Let's see.
